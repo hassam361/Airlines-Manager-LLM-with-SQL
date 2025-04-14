@@ -28,13 +28,12 @@ Install all dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
 ## 📦 Environment Setup
 Create a .env file in the root directory:
-
-env
-Copy
-Edit
+```
 OPENAI_API_KEY=your-openai-key
+```
 Make sure your SQLite DB is named am4.db and placed in the same directory.
 
 ## ▶️ Run the App
